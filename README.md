@@ -4,6 +4,10 @@
 
 이 MCP 서버는 Cursor IDE나 다른 MCP 호환 도구에서 나이스페이 API 문서를 쉽게 검색하고 조회할 수 있도록 해줍니다.
 
+<a href="https://glama.ai/mcp/servers/@FaithCoderLab/nicepay-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@FaithCoderLab/nicepay-mcp/badge" alt="NicePay Server MCP server" />
+</a>
+
 > **참고**: 이 프로젝트는 [나이스페이먼츠 공식 매뉴얼 저장소](https://github.com/nicepayments/nicepay-manual)의 마크다운 문서를 기반으로 작동합니다.
 
 ## 기능
@@ -175,4 +179,3 @@ MIT
 ## 기여
 
 이슈나 개선 사항이 있으면 알려주세요!
-
